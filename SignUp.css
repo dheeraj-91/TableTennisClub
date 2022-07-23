@@ -1,0 +1,50 @@
+form > div{
+    font-size: 180%;
+}
+.form1{
+ margin-top: 5%;
+ margin-left: 20%;
+ margin-right: 20%;
+}
+button{
+    border-radius: 25px;
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+
+}
+input{
+    border-radius: 25px;
+    height: 200%;
+}
+#email{
+    width: 250px;
+}
+#name{
+    width:250px;
+}
+#grade{
+    width: 10%;
+}
+h1{
+    font-size: 100%;
+}
+p{
+    font-size: 60%;
+}
+label{
+    font-size: 60%;
+}
+
+.form2{
+    margin-top: 10%;
+ margin-left: 20%;
+ margin-right: 20%;
+ border-color: black;
+
+}
