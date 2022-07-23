@@ -44,14 +44,14 @@
 
 ##Sign Up
 
-######HTML
+######HTML/SQL
 <sub> Last but certainly not least (for the navigation), we have the sign up page. Of course we need people to fill out this form so that we know who wants to join and how many of some items we need to buy based off of that! In the sign up html page, I made it so that the email must include "@mydusd.org" at the end, which is the school provided emails for my school, and I also made it so that the minimum grade one can enter is 9 and the maximum is 12, since this is a high school club! This is linked to my google spreadsheet so that once the user presses submit, the components save in different cells (next to each other) in the spreadsheet, like SQL. Additionally, once the user clicks submit, I added a checkmark to indicate that they have completed what they needed to do in there. Also, if you try submitting it again, it will say thank you for signing up, but it won't update anything on the spreadsheet. </sub>
 
 ######CSS
 <sub> For the CSS of the Sign Up page, all I had to do was change the heights, colors, and just for effects, opacity, borders, and spacing. I set the submit button to be a green color. Other than that, I didn't do much in the CSS because I thought it looked pretty good. </sub>
 
 
-######Navigation CSS/The chatbox
+######Navigation CSS/Javascript
 <sub> In the navigation bar, you see different options such as Sign Up and Meet Your Officers. But if you pay close attention on the page that you are on, in the navigation bar, it boxes it and highlights it a different color than the rest. Also, just for special effects, each time a user clicks on an option in the navigation bar (just to make sure that it doesn't feel rough), I made it smooth by making it slide from left to center. Additionally, at the end of every HTML page, you might've noticed at the bottom of the code a link. This is a chat feature that I used from UserLike which allows the website browsers to ask for any questions which gets redirected to my email. Again, luckily for me, it gave me a code to keep in javascript, so all I had to do is async type = text/javascript, and then what they gave me. </sub>
 
 #[Youtube Link](https://www.youtube.com/watch?v=Es05NA2sHJM)
