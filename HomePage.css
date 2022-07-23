@@ -1,0 +1,42 @@
+nav{
+    background-color: white;
+}
+
+
+a{
+    color: black;
+
+}
+
+p{
+    font-size: 60px;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+.imgslider{
+    width: 80%;
+    height: 400px;
+    background-image: url(Dhstt.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    animation: slider 15s infinite linear;
+    float:center;
+}
+@keyframes slider{
+    0%{background-image: url(Dhstt.png);}
+    50%{background-image: url(tt\ image.png);}
+}
+
+body{
+    background-color: #fefeff;
+}
+.aboutus{
+    color: black;
+    font-size: 150%;
+    margin: 50px;
+   
+
+    }
+h3{
+    font-size: 200%;
+}
