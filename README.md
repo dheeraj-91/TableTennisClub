@@ -54,6 +54,8 @@
 ######Navigation CSS/The chatbox
 <sub> In the navigation bar, you see different options such as Sign Up and Meet Your Officers. But if you pay close attention on the page that you are on, in the navigation bar, it boxes it and highlights it a different color than the rest. Also, just for special effects, each time a user clicks on an option in the navigation bar (just to make sure that it doesn't feel rough), I made it smooth by making it slide from left to center. Additionally, at the end of every HTML page, you might've noticed at the bottom of the code a link. This is a chat feature that I used from UserLike which allows the website browsers to ask for any questions which gets redirected to my email. Again, luckily for me, it gave me a code to keep in javascript, so all I had to do is async type = text/javascript, and then what they gave me. </sub>
 
+#[Youtube Link](https://www.youtube.com/watch?v=Es05NA2sHJM)
+
 <strong>#MY NAME IS DHEERAJ, AND THIS IS CS50</strong>
 
 
